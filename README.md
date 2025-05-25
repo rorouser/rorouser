@@ -1,3 +1,6 @@
+
+<img src="https://github.com/rorouser/rorouser/raw/master/1.png">
+
 ## Hi there 👋
 
 ### I’m a backend developer with solid experience in Java ☕ and Oracle 🛢️, now taking the leap into the world of data 📊.
