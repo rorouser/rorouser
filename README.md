@@ -54,9 +54,6 @@ My goal is to transition into roles like **Data Analyst**, **Data Engineer**, or
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-    <img src="https://neo4j.com/wp-content/themes/neo4j.com/img/favicon/favicon-32x32.png" alt="neo4j" width="40" height="40" style="border-radius:5px"/>
-  </a>
 </p>
 
 ---
