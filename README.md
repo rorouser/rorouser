@@ -1,13 +1,6 @@
 
 <img src="https://github.com/rorouser/rorouser/blob/main/1.png">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-gabela-jim%C3%A9nez/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rorouser" height="30" width="40" />
-  </a>
-</p>
-
 ## Hi there 👋
 
 ### I’m a backend developer with solid experience in Java ☕ and Oracle 🛢️, now taking the leap into the world of data 📊.
@@ -17,6 +10,15 @@ Over the years, I’ve built a strong foundation in software development and dat
 Right now, I’m strengthening my skills in Python 🐍 and Data Science as I prepare to start a Bachelor’s Degree in Applied Data Science at the Universitat Oberta de Catalunya (UOC) 🎓 this September. During the program, I’ll be diving deeper into areas like statistics 📈, machine learning 🧠, data analysis 📉, and cloud technologies ☁️.
 
 My goal is to transition into roles like **Data Analyst**, **Data Engineer**, or **Machine Learning Engineer**, where I can bring together my backend background and my growing passion for data 🚀.
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodrigo-gabela-jim%C3%A9nez/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rorouser" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
