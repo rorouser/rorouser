@@ -1,5 +1,5 @@
 
-<img src="https://github.com/rorouser/rorouser/blob/main/1.png">
+<img src="https://github.com/rorouser/rorouser/blob/main/banner.png">
 
 ## Hi there 👋
 
