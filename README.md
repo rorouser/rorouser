@@ -68,7 +68,7 @@ My goal is to transition into roles like **Data Analyst**, **Data Engineer**, or
 ---
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rorouser&show_icons=true&theme=radical" alt="rorouser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=radical" />
 </p>
 
 <p>
