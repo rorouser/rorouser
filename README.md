@@ -1,15 +1,13 @@
 
 <img src="https://github.com/rorouser/rorouser/blob/main/banner.png">
 
-## Hi there 👋
+## Hi there
 
-### I’m a backend developer with solid experience in Java ☕ and Oracle 🛢️, now taking the leap into the world of data 📊.
+I’m a passionate Java Backend Developer based in Dublin with hands-on experience in Spring Boot, Oracle, and REST API development. I enjoy building scalable, high-quality software and working on integration projects that make an impact.
 
-Over the years, I’ve built a strong foundation in software development and databases 💻, supported by a specialization in Artificial Intelligence and Big Data 🤖📡 (EQF Level 5), and a diploma in Web Application Development 🌐.
+Currently, I’m expanding my expertise through a Bachelor’s in Applied Data Science, strengthening my skills in machine learning, Python, and cloud technologies (AWS).
 
-Right now, I’m strengthening my skills in Python 🐍 and Data Science as I prepare to start a Bachelor’s Degree in Applied Data Science at the Universitat Oberta de Catalunya (UOC) 🎓 this September. During the program, I’ll be diving deeper into areas like statistics 📈, machine learning 🧠, data analysis 📉, and cloud technologies ☁️.
-
-My goal is to transition into roles like **Data Analyst**, **Data Engineer**, or **Machine Learning Engineer**, where I can bring together my backend background and my growing passion for data 🚀.
+I’m particularly interested in roles involving backend development, microservices, and data-driven applications, where I can combine my backend experience with modern data insights.
 
 ---
 
