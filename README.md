@@ -1,5 +1,4 @@
 
-<img src="https://github.com/rorouser/rorouser/blob/main/banner.png">
 
 ## Hi there
 
