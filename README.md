@@ -67,7 +67,3 @@ I’m particularly interested in roles involving backend development, microservi
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=radical" />
 </p>
-
-<p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rorouser&theme=radical" alt="rorouser" />
-</p>
