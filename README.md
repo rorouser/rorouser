@@ -2,12 +2,6 @@
 
 ## Hi there
 
-I’m a passionate Java Backend Developer based in Dublin with hands-on experience in Spring Boot, Oracle, and REST API development. I enjoy building scalable, high-quality software and working on integration projects that make an impact.
-
-Currently, I’m expanding my expertise through a Bachelor’s in Applied Data Science, strengthening my skills in machine learning, Python, and cloud technologies (AWS).
-
-I’m particularly interested in roles involving backend development, microservices, and data-driven applications, where I can combine my backend experience with modern data insights.
-
 ---
 
 <h3 align="left">Connect with me:</h3>
