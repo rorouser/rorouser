@@ -1,8 +1,4 @@
 
-
-## Hi there
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rodrigo-gabela-jim%C3%A9nez/" target="_blank">
