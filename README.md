@@ -1,58 +1,72 @@
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Rodrigo+%F0%9F%91%8B;Backend+Dev+%7C+Data+Engineer;Java+%E2%80%A2+Spring+%E2%80%A2+Python+%E2%80%A2+SQL;Building+things+that+scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Gabela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-gabela-jim%C3%A9nez/)
+
+</div>
+
+---
+
+## 🧑‍💻 About me
+```python
+rodrigo = {
+    "role":     "Backend Dev / Data Integration",
+    "stack":    ["Java", "Spring Boot", "Python", "SQL", "Docker", "CI/CD", "AWS"],
+    "now":      "Batch processing, data pipelines & APIs with Spring",
+}
+```
+
+---
+
+## 🛠️ Stack
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-gabela-jim%C3%A9nez/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rorouser" height="30" width="40" />
-  </a>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js" height="40"/>
+  &nbsp;
+  <!-- Backend / Data -->
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring" height="40"/>
+  &nbsp;
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" height="40"/>
+  &nbsp;
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40"/>
+  &nbsp;
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,vscode" height="40"/>
+</p>
+
+<!-- Spark, Tensorflow, Pandas no están en skillicons → los dejamos con devicons -->
+<p align="left">
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="spark" height="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="35"/>
+  &nbsp;
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" height="35"/>
+  &nbsp;
+  <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" alt="duckdb" height="35"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="spark" width="40" height="40" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-    <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" alt="duckdb" width="40" height="40" />
-  </a>
-</p>
+## 📊 Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rorouser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rorouser&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rorouser&color=F97316&style=flat-square&label=visitas" />
+</div>
