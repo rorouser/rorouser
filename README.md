@@ -58,7 +58,7 @@ rodrigo = {
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rorouser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorouser&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" />
 </div>
 
 <div align="center">
